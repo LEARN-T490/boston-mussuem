@@ -1,0 +1,209 @@
+header {
+    flex-direction: row;
+    justify-content: flex-end;
+    display: flex;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 150px;
+
+}
+
+
+
+
+.first {
+    color: black;
+    background-color: yellow;
+    border: 1px solid black;
+    margin: 43px;
+    width: 5%;
+    padding: 10px;
+    text-align: center;
+    flex-basis: 25%;
+
+}
+
+.login {
+    flex-basis: 5%;
+    color: black;
+}
+
+.viewchart {
+    flex-basis: 5%;
+    color: black;
+}
+
+.first:hover {
+    background-color: black;
+    color: white;
+}
+
+.second {
+    color: black;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+    justify-content: space-around;
+    margin: 43px;
+    width: 5%;
+    padding: 10px;
+    flex-basis: 25%;
+}
+
+.second:hover {
+    color: white;
+    background-color: black;
+}
+
+.third {
+    color: black;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+    width: 45%;
+}
+
+.third:hover {
+    background-color: black;
+    color: antiquewhite;
+}
+
+
+
+
+ul.no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nine {
+    padding: 1%;
+    border: 1px light black;
+    background-color: white;
+    width: 45%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 1%;
+    padding-right: 5%;
+}
+
+
+.nine:hover {
+    color: white;
+    background-color: black;
+}
+
+ul.no-bullets {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: flex-end;
+}
+
+.span {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    flex: auto;
+}
+
+h2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.me {
+
+    height: 30px;
+    display: inline;
+    border: 2px solid black;
+    padding: 3px;
+    padding-top: 8%;
+    justify-content: space-between;
+    margin: 1%;
+
+}
+
+.he {
+    height: 30px;
+    display: inline;
+    border: 2px solid black;
+    padding: 3px;
+    padding-top: 8%;
+    justify-content: space-between;
+    margin: 1%;
+
+
+}
+
+.she {
+    height: 30px;
+    display: inline;
+    border: 2px solid black;
+    padding: 3px;
+    padding-top: 8%;
+    justify-content: space-between;
+    margin: 1%;
+
+}
+
+.him {
+    height: 30px;
+    display: inline;
+    border: 2px solid black;
+    padding: 3px;
+    padding-top: 8%;
+    justify-content: space-between;
+    margin: 1%;
+
+}
+
+footer {
+    display: flex;
+    height: 400px;
+    margin: 1%;
+    justify-content: center;
+    background-color: beige;
+
+
+
+
+}
+
+.one {
+    flex-basis: 20%;
+    margin-right: 5%;
+    justify-content: space-around;
+
+
+}
+
+.two {
+
+    flex-basis: 20%;
+    margin: 1%;
+    justify-content: space-around;
+
+}
+
+.three {
+    flex-basis: 20%;
+    margin-right: 5%;
+    justify-content: space-around;
+
+
+
+}
+
+.four {
+    flex-basis: 20%;
+    margin-right: 5%;
+    justify-content: space-around;
+
+}
